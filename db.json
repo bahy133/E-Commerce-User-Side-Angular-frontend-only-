@@ -1,0 +1,245 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Mobiles",
+      "imgURL": "assets/mobiles-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "name": "Tablets",
+      "imgURL": "assets/mediapad-t3-10-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "name": "Laptops",
+      "imgURL": "assets/laptops-removebg-preview.png"
+    },
+    {
+      "id": 4,
+      "name": "TVs",
+      "imgURL": "assets/ae-ar-uhd-4k-tv-ua55au7000uxzn-r-perspective-gray-457895692-removebg-preview.png"
+    }
+  ],
+  "Brands": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "imgURL": "assets/2560px-Samsung_C_T_logo.svg-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "name": "LG",
+      "imgURL": "assets/2560px-LG_logo__2015_.svg-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo",
+      "imgURL": "assets/png-transparent-lenovo-logo-laptop-lenovo-thinkpad-thinkpad-x1-carbon-intel-dell-lenovo-logo-electronics-text-rectangle-removebg-preview.png"
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi",
+      "imgURL": "assets/Xiaomi-Logo-removebg-preview.png"
+    },
+    {
+      "id": 5,
+      "name": "Apple",
+      "imgURL": "assets/Apple-Logo-removebg-preview.png"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "name": "Samsung S22",
+      "imgURL": "assets/sa-galaxy-s22-s901-412961-sm-s901ezgdmea-530965775.png",
+      "quantity": 1,
+      "oldprice": 1000,
+      "price": 700,
+      "rating": 5,
+      "rateNo": 1,
+      "brandID": 1,
+      "categoryID": 1,
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "iPad",
+      "imgURL": "assets/31kRFrOoQ+L._AC_SY780_-removebg-preview.png",
+      "quantity": 6,
+      "oldprice": null,
+      "price": 1000,
+      "rating": 50,
+      "rateNo": 10,
+      "brandID": 5,
+      "categoryID": 2,
+      "description": "ssss"
+    },
+    {
+      "id": 3,
+      "name": "iPad Pro",
+      "imgURL": "assets/ipad-pro-og-202104-removebg-preview.png",
+      "quantity": 6,
+      "oldprice": 1500,
+      "price": 1200,
+      "rating": 15,
+      "rateNo": 4,
+      "brandID": 5,
+      "categoryID": 2,
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi Poco F3",
+      "imgURL": "assets/Xiaomi-Poco-F3-1-removebg-preview.png",
+      "quantity": 6,
+      "oldprice": null,
+      "price": 300,
+      "rating": 25,
+      "rateNo": 7,
+      "brandID": 4,
+      "categoryID": 1,
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Samsung Laptop",
+      "imgURL": "assets/51Afm88Bq0L._AC_SL1013_-removebg-preview.png",
+      "quantity": 6,
+      "oldprice": null,
+      "price": 1000,
+      "rating": 75,
+      "rateNo": 15,
+      "brandID": 1,
+      "categoryID": 3,
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Lenovo Laptop",
+      "imgURL": "assets/lenovo-laptop-thinkpad-l15-gen-2-15-amd-subseries-hero-removebg-preview.png",
+      "quantity": 6,
+      "oldprice": 1000,
+      "price": 900,
+      "rating": 10,
+      "rateNo": 3,
+      "brandID": 3,
+      "categoryID": 3,
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "Samsung TV",
+      "imgURL": "assets/my-smart-m5-32m50a-ls32am500nexxs-337516016-removebg-preview.png",
+      "quantity": 6,
+      "oldprice": 1000,
+      "price": 700,
+      "rating": 45,
+      "rateNo": 10,
+      "brandID": 1,
+      "categoryID": 4,
+      "description": ""
+    },
+    {
+      "id": 8,
+      "name": "LG TV",
+      "imgURL": "assets/81IG-HrZ-7L._AC_SL1500_-removebg-preview.png",
+      "quantity": 6,
+      "oldprice": 1000,
+      "price": 800,
+      "rating": 52,
+      "rateNo": 15,
+      "brandID": 2,
+      "categoryID": 4,
+      "description": ""
+    }
+  ],
+  "Person": [
+    {
+      "id": 1,
+      "name": "Bahy Mohamed",
+      "email": "bahy713@gmail.com",
+      "password": "kkk",
+      "phone": "0221223213",
+      "gender": "M",
+      "dateOfBirth": "4/11/1999",
+      "type": "A",
+      "carddata": {
+        "cardNumber": "4026520200067615",
+        "cardexpiary": "09/23",
+        "cvv": "555"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Basma Mohamed",
+      "email": "basma@gmail.com",
+      "password": "kkk",
+      "phone": "0221223213",
+      "gender": "F",
+      "dateOfBirth": "15/4/1995",
+      "type": "U",
+      "carddata": {
+        "cardNumber": "4026520200067615",
+        "cardexpiary": "09/23",
+        "cvv": "555"
+      }
+    },
+    {
+      "name": "test",
+      "email": "sss@s",
+      "password": "ggg",
+      "phone": "01100467054",
+      "gender": "M",
+      "dateOfBirth": "2022-10-20",
+      "carddata": {
+        "cardNumber": "5555555555555555",
+        "cardexpiary": "2022-10-03",
+        "cvv": "555"
+      },
+      "id": 4
+    }
+  ],
+  "Carts": [
+    {
+      "id": 1,
+      "products": [
+        {
+          "id": 1,
+          "name": "Samsung S22",
+          "imgURL": "assets/sa-galaxy-s22-s901-412961-sm-s901ezgdmea-530965775.png",
+          "quantity": 1,
+          "oldprice": null,
+          "price": 700,
+          "brandID": 1,
+          "categoryID": 1
+        }
+      ],
+      "totalprice": 700
+    },
+    {
+      "id": 2,
+      "products": [
+        {
+          "id": 1,
+          "name": "Samsung S22",
+          "imgURL": "assets/sa-galaxy-s22-s901-412961-sm-s901ezgdmea-530965775.png",
+          "price": 700,
+          "quantity": 1,
+          "brandID": 1,
+          "categoryID": 1
+        },
+        {
+          "id": 5,
+          "name": "Samsung Laptop",
+          "imgURL": "assets/51Afm88Bq0L._AC_SL1013_-removebg-preview.png",
+          "price": 1000,
+          "quantity": 1,
+          "brandID": 1,
+          "categoryID": 3
+        }
+      ],
+      "totalprice": 1700
+    }
+  ]
+}
